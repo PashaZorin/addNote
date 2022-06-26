@@ -1,0 +1,17 @@
+.button{
+	padding: 5px 14px 6px 14px;
+	border-radius: 12px;
+	border-color: transparent;
+	font-weight: 500;
+	font-size: 12px;
+	cursor: pointer;
+	&__green{
+		background-color: #83BA63;
+		color: #FFFFFF;
+	}
+	&__transparent{
+		background-color: #FFFFFF;
+		color: #83BA63;
+		border-color: #83BA63;
+	}
+}
