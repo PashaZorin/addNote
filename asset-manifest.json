@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/addNote/static/css/main.73e4c793.css",
+    "main.js": "/addNote/static/js/main.80848e42.js",
+    "static/media/delete.svg": "/addNote/static/media/delete.e03ac6ef9d27fb7f25d2453c6162b779.svg",
+    "index.html": "/addNote/index.html",
+    "main.73e4c793.css.map": "/addNote/static/css/main.73e4c793.css.map",
+    "main.80848e42.js.map": "/addNote/static/js/main.80848e42.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.73e4c793.css",
+    "static/js/main.80848e42.js"
+  ]
+}
